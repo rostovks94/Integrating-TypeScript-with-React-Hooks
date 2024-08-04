@@ -1,4 +1,3 @@
-// src/components/ShoppingCart.tsx
 import React, { useReducer } from 'react';
 import { shoppingCartReducer, initialState } from '../reducers/shoppingCartReducer';
 import { ShoppingCartItem } from '../types';
