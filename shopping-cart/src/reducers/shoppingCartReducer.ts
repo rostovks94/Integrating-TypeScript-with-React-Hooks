@@ -1,4 +1,3 @@
-// src/reducers/shoppingCartReducer.ts
 import { ShoppingCartItem } from '../types';
 
 interface ShoppingCartState {
